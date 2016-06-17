@@ -1,4 +1,4 @@
-Clean
+Clean - Be sure to check the Wiki for a screenshot!
 
 [Rainmeter]
 Update=1000000
